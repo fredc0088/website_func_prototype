@@ -1,4 +1,16 @@
 # PHP-website-func.-prot.
-Prototype of a website with php functionality of sending and receiving forms, such registration, login etc...
 
- Assignment for Birbeck, UoL, London, 2015  By F Cocco     
+## Description
+
+Prototype of a website with php functionality like sending and receiving forms, 
+registration and logged in status.
+
+Currently hosted at:
+
+	http://titan.dcs.bbk.ac.uk/~fcocco01/p1fma/
+
+## Other info
+
+ Assignment for Birbeck, UoL, London, 
+ Year: 2014/2015 
+ Author: Federico Cocco
