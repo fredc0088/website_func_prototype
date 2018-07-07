@@ -2,7 +2,7 @@
 
 ## Description
 
-Prototype of a website with php functionality like sending and receiving forms, 
+Prototype of a website with php functionalities like sending and receiving forms, 
 registration and logged in status.
 
 Currently hosted at:
